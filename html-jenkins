@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>10-Line Web Page</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 50px;">
+    <h1>Hello World</h1>
+    <p>This is a complete, minimal web page template.</p>
+    <button onclick="alert('Working!')">Click Me</button>
+</body>
+</html>
